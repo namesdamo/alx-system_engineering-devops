@@ -1,1 +1,1 @@
-a script that prints the result of POWER
+a script that displays the result
